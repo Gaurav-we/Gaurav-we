@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Baldev</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" src="./hd-wallpaper-desktop-knypz.htm" width="200" alt="Coding">
-<img align="right" width="400" src="./4865921-programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-style.htm" alt="Coding">
+<img align="center" src="https://www.vecteezy.com/free-vector/coder" width="200" alt="Coding">
+<img align="right" width="400" src="https://www.peakpx.com/en/hd-wallpaper-desktop-knypz" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-we&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-we" /> </p>
 
@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-we&show_icons=true&locale=en" alt="gaurav-we" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-we&" alt="gaurav-we" /></p>
+
