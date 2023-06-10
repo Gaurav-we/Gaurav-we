@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://www.123rf.com/photo_97992262_javascript-coder-with-laptop.html" alt="Coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-we&label=Profile%20views&color=0e75b6&style=flat"
+<p align="left"> <img src="https://lovepik.com/image-450127829/flat-illustration-of-web-coding.html"
         alt="gaurav-we" /> </p>
 
 - 🌱 I’m currently learning **React js**
